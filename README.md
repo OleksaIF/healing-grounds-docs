@@ -14,4 +14,4 @@ I'm Oleksii Anushkevychus – an aspiring Game QA Tester and Game Design enthusi
 This is not a completed game, but an example of design preparation and learning.
 
 ## 📫 Let’s connect:
-- [LinkedIn / Upwork / Portfolio link]
+- aleksijus29@gmail.com
